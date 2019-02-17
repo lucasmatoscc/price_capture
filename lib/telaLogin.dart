@@ -94,7 +94,7 @@ class _TelaLoginState extends State<TelaLogin> {
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.start,
               children: <Widget>[ new Expanded(child: new RaisedButton(
-                child: const Text('Entrar', textAlign: TextAlign.center,
+                child: const Text('Login', textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Colors.white, height: 1.4, fontSize: 22,)),
                 color: ButtonInicio,
@@ -113,7 +113,7 @@ class _TelaLoginState extends State<TelaLogin> {
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.start,
               children: <Widget>[ new Expanded(child: new RaisedButton(
-                child: const Text('Criar Usuário', textAlign: TextAlign.center,
+                child: const Text('Sing Up', textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Colors.white, height: 1.4, fontSize: 22,)),
                 color: ButtonInicio,
